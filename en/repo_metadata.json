@@ -431,7 +431,7 @@
 					"editorResPaths": [
 						{
 							"id" : "MainService",
-							"editor" : "restapi",
+							"editor" : "",
 							"wspath" : "<workspace>/CustomerDatabaseV1/restapi.descriptor"
 						}
 					],
