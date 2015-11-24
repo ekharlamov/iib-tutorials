@@ -441,7 +441,32 @@
 							"path": "CustomerDatabaseV1"
 						}
 					]
+				},
+				{
+					"name" : "Business transaction monitoring",
+					"version"	: "1.0",
+					"iibVersions"	: "10.*-11.*",
+					"shortDesc" : "Learn how to use business transaction monitoring in IBM Integration Bus.",
+					"detailsURL" : "http://ekharlamov.github.io/iib-btm-tutorial/en/details.html",
+					"stepsURL" : "http://ekharlamov.github.io/iib-btm-tutorial/en/steps.html",
+					"zipURL" : "https://github.com/ekharlamov/iib-btm-tutorial/releases/download/V1/BTM_RETAIL.zip",
+					"barFile" : "",
+					"visible"	: "true",
+					"tags"	: "btm",
+					"isPattern"	: "false",
+					"isFavorite"	: "true",
+					"projects"	: "BTM_RETAIL_APP:BTM_RETAIL_STOCK_CHECK_APP:BTM_RETAIL_ORDER_ITEM_APP:BTM_RETAIL_PURCHASE_ITEM_APP:BTM_RETAIL_SHARED_LIBRARY",
+					"editorResPaths": [
+						{
+							"id" : "MainProcessOrderFlow",
+							"editor" : "",
+							"wspath" : "<workspace>/BTM_RETAIL_APP/Main_Process_Order_Flow.msgflow"
+						}
+					],
+			    		"deployedResources" : [
+					]
 				}
+
 				
 			]
 		}, 
