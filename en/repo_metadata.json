@@ -14,6 +14,34 @@
 			"tutorials":
 			[
 				{
+		        	"name"          : "Business transaction monitoring",
+		            	"version"	: "1.0",
+		            	"iibVersions"	: "10.*-11.*",
+		            	"shortDesc"     : "Learn how to monitor business transactions on IBM Integration Bus Version 10.0.0.3",
+		            	"detailsURL"    : "http://ot4i.github.io/btm-tutorial/en/details.html",
+		            	"stepsURL"      : "http://ot4i.github.io/btm-tutorial/en/steps.html",
+		            	"zipURL"        : "https://github.com/ot4i/btm-tutorial/releases/download/V1/TemperatureConverter.zip",
+		            	"barFile"       : "<workspace>/BARfiles/EDITTHIS.bar",
+		            	"visible"	: "true",
+		            	"tags"		: "service;http;soap;transformation",
+		            	"isPattern"	: "false",
+		            	"isFavorite"	: "true",
+		            	"projects"		: "TemperatureConverter:BARfiles",
+		            	"editorResPaths"   : [
+		            				{
+		            				"id" : "MainService",
+		            				"editor" : "service",
+		            				"wspath" : "<workspace>/TemperatureConverter/service.descriptor"
+		            				}	
+		            				],
+			    	"deployedResources" : [
+							{
+							"type": "service",
+							"path": "TemperatureConverter"
+							}
+							]
+				},
+				{
 		        	"name"          : "Integration services (SOAP/HTTP inputs)",
 		            	"version"		: "1.0",
 		            	"iibVersions"	: "10.*-11.*",
