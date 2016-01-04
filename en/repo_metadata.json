@@ -46,9 +46,9 @@
 		            	"version"	: "1.0",
 		            	"iibVersions"	: "10.*-11.*",
 		            	"shortDesc"     : "Learn how to use a Mapping node to transform data using a Map in an IBM Integration Bus message flow by exploring this simple example.",
-		            	"detailsURL"    : "http://bthomps.github.io/tutorialTransformationMap/TransformationMap/en/details.html",
-		            	"stepsURL"      : "http://bthomps.github.io/tutorialTransformationMap/TransformationMap/en/steps.html",
-		            	"zipURL"        : "https://github.com/bthomps/tutorialTransformationMap/releases/download/V1.0/TransformationMapPI.zip",
+		            	"detailsURL"    : "http://ot4i.github.io/transformation-map-tutorial/en/details.html",
+		            	"stepsURL"      : "http://ot4i.github.io/transformation-map-tutorial/en/steps.html",
+		            	"zipURL"        : "https://github.com/ot4i/transformation-map-tutorial/releases/download/v1.0/TransformMAPPI.zip",
 		            	"barFile"       : "<workspace>/TestModeBarFiles/Transformation_Mapproject.TestMode.bar",
 		            	"visible"	: "true",
 		            	"tags"		: "transformation;map",
@@ -74,9 +74,9 @@
 		            	"version"	: "1.0",
 		            	"iibVersions"	: "10.*-11.*",
 		            	"shortDesc"     : "Learn how to use a Compute node to transform data using ESQL in an IBM Integration Bus message flow by exploring this simple example.",
-		            	"detailsURL"    : "http://bthomps.github.io/tutorialTransformationESQL/TransformationESQL/en/details.html",
-		            	"stepsURL"      : "http://bthomps.github.io/tutorialTransformationESQL/TransformationESQL/en/steps.html",
-		            	"zipURL"        : "https://github.com/bthomps/tutorialTransformationESQL/releases/download/V1.0/TransformationESQLPI.zip",
+		            	"detailsURL"    : "http://ot4i.github.io/transformation-esql-tutorial/en/details.html",
+		            	"stepsURL"      : "http://ot4i.github.io/transformation-esql-tutorial/en/steps.html",
+		            	"zipURL"        : "https://github.com/ot4i/transformation-esql-tutorial/releases/download/v1.0/TransformESQLPI.zip",
 		            	"barFile"       : "<workspace>/TestModeBarFiles/Transformation_ESQLproject.TestMode.bar",
 		            	"visible"	: "true",
 		            	"tags"		: "transformation;esql",
@@ -102,9 +102,9 @@
 		            	"version"	: "1.0",
 		            	"iibVersions"	: "10.*-11.*",
 		            	"shortDesc"     : "Learn how to use a JavaCompute node to transform data using Java in an IBM Integration Bus message flow by exploring this simple example.",
-		            	"detailsURL"    : "http://bthomps.github.io/tutorialTransformationJava/TransformationJava/en/details.html",
-		            	"stepsURL"      : "http://bthomps.github.io/tutorialTransformationJava/TransformationJava/en/steps.html",
-		            	"zipURL"        : "https://github.com/bthomps/tutorialTransformationJava/releases/download/V1.0/TransformationJavaPI.zip",
+		            	"detailsURL"    : "http://ot4i.github.io/transformation-java-tutorial/en/details.html",
+		            	"stepsURL"      : "http://ot4i.github.io/transformation-java-tutorial/en/steps.html",
+		            	"zipURL"        : "https://github.com/ot4i/transformation-java-tutorial/releases/download/v1.0/TransformJavaPI.zip",
 		            	"barFile"       : "<workspace>/TestModeBarFiles/Transformation_Javaproject.TestMode.bar",
 		            	"visible"	: "true",
 		            	"tags"		: "transformation;java",
@@ -130,9 +130,9 @@
 		            	"version"	: "1.0",
 		            	"iibVersions"	: "10.*-11.*",
 		            	"shortDesc"     : "Learn how to use a JavaCompute node to transform data using Java (JAXB) in an IBM Integration Bus message flow by exploring this simple example.",
-		            	"detailsURL"    : "http://bthomps.github.io/tutorialTransformationJavaJAXB/TransformationJavaJAXB/en/details.html",
-		            	"stepsURL"      : "http://bthomps.github.io/tutorialTransformationJavaJAXB/TransformationJavaJAXB/en/steps.html",
-		            	"zipURL"        : "https://github.com/bthomps/tutorialTransformationJavaJAXB/releases/download/V1.0/TransformationJavaJAXBPI.zip",
+		            	"detailsURL"    : "http://ot4i.github.io/transformation-javaJAXB-tutorial/en/details.html",
+		            	"stepsURL"      : "http://ot4i.github.io/transformation-javaJAXB-tutorial/en/steps.html",
+		            	"zipURL"        : "https://github.com/ot4i/transformation-javaJAXB-tutorial/releases/download/v1.0/TransformJAXBPI.zip",
 		            	"barFile"       : "<workspace>/TestModeBarFiles/Transformation_JavaJAXBproject.TestMode.bar",
 		            	"visible"	: "true",
 		            	"tags"		: "transformation;java",
@@ -158,9 +158,9 @@
 		            	"version"	: "1.0",
 		            	"iibVersions"	: "10.*-11.*",
 		            	"shortDesc"     : "Learn how to use an XSL Transform node to transform data using XSL in an IBM Integration Bus message flow by exploring this simple example.",
-		            	"detailsURL"    : "http://bthomps.github.io/tutorialTransformationXSL/TransformationXSL/en/details.html",
-		            	"stepsURL"      : "http://bthomps.github.io/tutorialTransformationXSL/TransformationXSL/en/steps.html",
-		            	"zipURL"        : "https://github.com/bthomps/tutorialTransformationXSL/releases/download/V1.0/TransformationXSLPI.zip",
+		            	"detailsURL"    : "http://ot4i.github.io/transformation-XSL-tutorial/en/details.html",
+		            	"stepsURL"      : "http://ot4i.github.io/transformation-XSL-tutorial/en/steps.html",
+		            	"zipURL"        : "https://github.com/ot4i/transformation-XSL-tutorial/releases/download/v1.0/TransformXSLPI.zip",
 		            	"barFile"       : "<workspace>/TestModeBarFiles/Transformation_XSLproject.TestMode.bar",
 		            	"visible"	: "true",
 		            	"tags"		: "transformation;xsl",
@@ -186,9 +186,9 @@
 		            	"version"	: "1.0",
 		            	"iibVersions"	: "10.*-11.*",
 		            	"shortDesc"     : "Learn how to use a .NETCompute node to transform data using C# in an IBM Integration Bus message flow by exploring this simple example.",
-		            	"detailsURL"    : "http://bthomps.github.io/tutorialTransformationDotNet/TransformationDotNet/en/details.html",
-		            	"stepsURL"      : "http://bthomps.github.io/tutorialTransformationDotNet/TransformationDotNet/en/steps.html",
-		            	"zipURL"        : "https://github.com/bthomps/tutorialTransformationDotNet/releases/download/V1.0/TransformationDotNetPI.zip",
+		            	"detailsURL"    : "http://ot4i.github.io/transformation-dotnet-tutorial/en/details.html",
+		            	"stepsURL"      : "http://ot4i.github.io/transformation-dotnet-tutorial/en/steps.html",
+		            	"zipURL"        : "https://github.com/ot4i/transformation-dotnet-tutorial/releases/download/v1.0/TransformDOTNETPI.zip",
 		            	"barFile"       : "<workspace>/TestModeBarFiles/Transformation_DotNetproject.TestMode.bar",
 		            	"visible"	: "true",
 		            	"tags"		: "transformation;.NET",
@@ -266,10 +266,10 @@
 						]
 				},
 				{
-        				"name": "Subscribing to receive MQTT events",
+        				"name": "Receiving MQTT messages by subscribing to MQTT topics",
         				"version": "1.0",
         				"iibVersions": "10.*-11.*",
-        				"shortDesc": "Learn how to use the MQTT Subscribe node to receive data from an MQTT broker.",
+        				"shortDesc": "Learn how to use the MQTTSubscribe node to receive messages from an MQTT server.",
         				"barFile": "<workspace>/MQTTSubscribe/MQTTSubscribe.bar",
         				"visible": "true",
         				"tags": "service;http;soap;transformation",
@@ -366,6 +366,54 @@
                                 "deployedResources": [
                                                      ]
                         	}, 
+                        	{
+                                "name"          : "Modeling HL7 data by using DFDL",
+                                "version"	: "1.0",
+                                "iibVersions"	: "10.*-11.*",
+           	                "shortDesc"     : "Learn how to model HL7 healthcare data using Data Format Description Language (DFDL)",
+           	                "detailsURL"    : "http://ot4i.github.io/dfdl-hl7-tutorial/dfdlhl7/en/details.html",
+           	                "stepsURL"      : "http://ot4i.github.io/dfdl-hl7-tutorial/dfdlhl7/en/steps.html",
+           	                "zipURL"        : "https://github.com/ot4i/dfdl-hl7-tutorial/releases/download/v1.0.0/dfdlhl7_PI_v1.zip",
+           	                "barFile"       : "",
+           	                "visible"	: "true",
+           	                "tags"		: "dfdl;hl7",
+           	                "isPattern"	: "false",
+           	                "isFavorite"	: "true",
+           	                "projects"	: "HL7-2.7",
+       	                        "editorResPaths": [
+           				{
+       		        	        	"id" : "MainSchema",
+       				                "editor" : "dfdl",
+    			  	                "wspath" : "<workspace>/HL7-2.7/GenericHL7.xsd"
+       			                }
+        		          ],
+                		"deployedResources": [
+				     ]
+	                        }, 
+	                        {
+       	                        "name"          : "Modeling Toshiba 4690 TLog data by using DFDL",
+                                "version"	: "1.0",
+                                "iibVersions"	: "10.*-11.*",
+           	                "shortDesc"     : "Learn how to model Toshiba 4690 Point of Sale Transaction Log data by using Data Format Description Language (DFDL)",
+           	                "detailsURL"    : "http://ot4i.github.io/dfdl-tlog-tutorial/dfdltlog/en/details.html",
+           	                "stepsURL"      : "http://ot4i.github.io/dfdl-tlog-tutorial/dfdltlog/en/steps.html",
+           	                "zipURL"        : "https://github.com/ot4i/dfdl-tlog-tutorial/releases/download/v1.0.0/dfdltlog_PI_v1.zip",
+           	                "barFile"       : "",
+           	                "visible"	: "true",
+           	                "tags"		: "dfdl;tlog;ace;4690",
+           	                "isPattern"	: "false",
+           	                "isFavorite"	: "true",
+           	                "projects"	: "TLOG-ACE",
+       	                        "editorResPaths": [
+           				{
+       		        	        	"id" : "MainSchema",
+       				                "editor" : "dfdl",
+    			  	                "wspath" : "<workspace>/TLOG-ACE/TlogAce.xsd"
+       			                }
+        		          ],
+                		"deployedResources": [
+				     ]
+	                        }, 
                                 {
                                 "name"          : "Modeling ISO 8583 data by using DFDL",
                                 "version"	: "1.0",
@@ -443,19 +491,43 @@
 					]
 				},
 				{
-					"name" : "Business transaction monitoring",
-					"version"	: "1.0",
-					"iibVersions"	: "10.*-11.*",
-					"shortDesc" : "Learn how to use business transaction monitoring in IBM Integration Bus.",
-					"detailsURL" : "http://ekharlamov.github.io/iib-btm-tutorial/en/details.html",
-					"stepsURL" : "http://ekharlamov.github.io/iib-btm-tutorial/en/steps.html",
-					"zipURL" : "https://github.com/ekharlamov/iib-btm-tutorial/releases/download/V1/BTM_RETAIL.zip",
+		            	"name"          : "Using a Mapping node to access a Lookup table that is stored in the Global Cache",
+		            	"version"	: "1.0",
+		            	"iibVersions"	: "10.*-11.*",
+		            	"shortDesc"     : "Learn how to use a Mapping node to graphically access a Lookup table that is stored in the Global Cache by exploring this simple example.",
+				"detailsURL" 	: "http://ot4i.github.io/mapping-cache-tutorial/en/details.html",
+				"stepsURL" 	: "http://ot4i.github.io/mapping-cache-tutorial/en/steps.html",
+				"zipURL" 	: "https://github.com/ot4i/mapping-cache-tutorial/releases/download/1.0/MappingCachePI.zip",
+				"barFile" 	: "",
+		            	"visible"	: "true",
+		            	"tags"		: "transformation;map;cache",
+		            	"isPattern"	: "false",
+		            	"isFavorite"	: "true",
+		            	"projects"	: "LookupTable_UsingMappingGlobalCache",
+		            	"editorResPaths"   : [
+		            				{
+		            				"id" : "MainFlow",
+		            				"editor" : "flow",
+		            			  	"wspath" : "<workspace>/LookupTable_UsingMappingGlobalCache/LookupCountyFullName.msgflow"
+		            				}
+		            			],
+				"deployedResources" : [
+						]
+				},
+				{
+		        	"name"          : "Business transaction monitoring",
+		            	"version"	: "1.0",
+		            	"iibVersions"	: "10.*-11.*",
+		            	"shortDesc"     : "Learn how to monitor business transactions on IBM Integration Bus Version 10.0.0.3",
+		            	"detailsURL"    : "http://ot4i.github.io/btm-tutorial/en/details.html",
+		            	"stepsURL"      : "http://ot4i.github.io/btm-tutorial/en/steps.html",
+				"zipURL" 	: "https://github.com/ot4i/btm-tutorial/releases/download/V1/BTM_RETAIL.zip",
 					"barFile" : "",
 					"visible"	: "true",
 					"tags"	: "btm",
 					"isPattern"	: "false",
 					"isFavorite"	: "true",
-					"projects"	: "BTM_RETAIL_APP:BTM_RETAIL_STOCK_CHECK_APP:BTM_RETAIL_ORDER_ITEM_APP:BTM_RETAIL_PURCHASE_ITEM_APP:BTM_RETAIL_SHARED_LIBRARY",
+					"projects"	: "BTM_RETAIL_APP:BTM_RETAIL_SHARED_LIBRARY",
 					"editorResPaths": [
 						{
 							"id" : "MainProcessOrderFlow",
@@ -466,8 +538,6 @@
 			    		"deployedResources" : [
 					]
 				}
-
-				
 			]
 		}, 
 		{
