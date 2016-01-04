@@ -14,30 +14,6 @@
 			"tutorials":
 			[
 				{
-		        	"name"          : "Business transaction monitoring",
-		            	"version"	: "1.0",
-		            	"iibVersions"	: "10.*-11.*",
-		            	"shortDesc"     : "Learn how to monitor business transactions on IBM Integration Bus Version 10.0.0.3",
-		            	"detailsURL"    : "http://ot4i.github.io/btm-tutorial/en/details.html",
-		            	"stepsURL"      : "http://ot4i.github.io/btm-tutorial/en/steps.html",
-				"zipURL" 	: "https://github.com/ot4i/btm-tutorial/releases/download/V1/BTM_RETAIL.zip",
-					"barFile" : "",
-					"visible"	: "true",
-					"tags"	: "btm",
-					"isPattern"	: "false",
-					"isFavorite"	: "true",
-					"projects"	: "BTM_RETAIL_APP:BTM_RETAIL_SHARED_LIBRARY",
-					"editorResPaths": [
-						{
-							"id" : "MainProcessOrderFlow",
-							"editor" : "",
-							"wspath" : "<workspace>/BTM_RETAIL_APP/Main_Process_Order_Flow.msgflow"
-						}
-					],
-			    		"deployedResources" : [
-					]
-				},
-				{
 		        	"name"          : "Integration services (SOAP/HTTP inputs)",
 		            	"version"		: "1.0",
 		            	"iibVersions"	: "10.*-11.*",
@@ -485,6 +461,82 @@
 				],
 				"deployedResources": [
 				]
+				},
+				{
+					"name" : "Manage a set of records with IBM Integration Bus REST API services",
+					"version"	: "1.0",
+					"iibVersions"	: "10.*-11.*",
+					"shortDesc" : "Learn how to use an IBM Integration Bus REST API service to manage a set of records.",
+					"detailsURL" : "http://ekharlamov.github.io/rest-api-tutorial/en/details.html",
+					"stepsURL" : "http://ekharlamov.github.io/rest-api-tutorial/en/steps.html",
+					"zipURL" : "https://github.com/ot4i/rest-api-tutorial/releases/download/V1/CustomerDatabasePI_V1.zip",
+					"barFile" : "<workspace>/BARfiles/CustomerDatabaseV1.bar",
+					"visible"	: "true",
+					"tags"	: "rest api",
+					"isPattern"	: "false",
+					"isFavorite"	: "true",
+					"projects"	: "BARfiles:CustomerDatabaseJava:CustomerDatabaseV1",
+					"editorResPaths": [
+						{
+							"id" : "CustomerDatabaseV1",
+							"editor" : "",
+							"wspath" : "<workspace>/CustomerDatabaseV1/restapi.descriptor"
+						}
+					],
+			    	"deployedResources" : [
+						{
+							"type": "restapi",
+							"path": "CustomerDatabaseV1"
+						}
+					]
+				},
+				{
+		            	"name"          : "Using a Mapping node to access a Lookup table that is stored in the Global Cache",
+		            	"version"	: "1.0",
+		            	"iibVersions"	: "10.*-11.*",
+		            	"shortDesc"     : "Learn how to use a Mapping node to graphically access a Lookup table that is stored in the Global Cache by exploring this simple example.",
+				"detailsURL" 	: "http://ot4i.github.io/mapping-cache-tutorial/en/details.html",
+				"stepsURL" 	: "http://ot4i.github.io/mapping-cache-tutorial/en/steps.html",
+				"zipURL" 	: "https://github.com/ot4i/mapping-cache-tutorial/releases/download/1.0/MappingCachePI.zip",
+				"barFile" 	: "",
+		            	"visible"	: "true",
+		            	"tags"		: "transformation;map;cache",
+		            	"isPattern"	: "false",
+		            	"isFavorite"	: "true",
+		            	"projects"	: "LookupTable_UsingMappingGlobalCache",
+		            	"editorResPaths"   : [
+		            				{
+		            				"id" : "MainFlow",
+		            				"editor" : "flow",
+		            			  	"wspath" : "<workspace>/LookupTable_UsingMappingGlobalCache/LookupCountyFullName.msgflow"
+		            				}
+		            			],
+				"deployedResources" : [
+						]
+				},
+				{
+		        	"name"          : "Business transaction monitoring",
+		            	"version"	: "1.0",
+		            	"iibVersions"	: "10.*-11.*",
+		            	"shortDesc"     : "Learn how to monitor business transactions on IBM Integration Bus Version 10.0.0.3",
+		            	"detailsURL"    : "http://ot4i.github.io/btm-tutorial/en/details.html",
+		            	"stepsURL"      : "http://ot4i.github.io/btm-tutorial/en/steps.html",
+				"zipURL" 	: "https://github.com/ot4i/btm-tutorial/releases/download/V1/BTM_RETAIL.zip",
+					"barFile" : "",
+					"visible"	: "true",
+					"tags"	: "btm",
+					"isPattern"	: "false",
+					"isFavorite"	: "true",
+					"projects"	: "BTM_RETAIL_APP:BTM_RETAIL_SHARED_LIBRARY",
+					"editorResPaths": [
+						{
+							"id" : "MainProcessOrderFlow",
+							"editor" : "",
+							"wspath" : "<workspace>/BTM_RETAIL_APP/Main_Process_Order_Flow.msgflow"
+						}
+					],
+			    		"deployedResources" : [
+					]
 				}
 			]
 		}, 
